@@ -11,10 +11,12 @@ This web app predicts stock trends using sentiment analysis from:
 ## 🔍 Preview
 
 ### 🏠 Home Page
-![Home](assets/home.png)
+![ChatGPT Image May 20, 2025, 01_37_17 AM](https://github.com/user-attachments/assets/3aefb577-a57e-4e8d-935b-69a958dc57a7)
+
 
 ### 📊 Prediction Result
-![Result](assets/result.png)
+![Gemini_Generated_Image_r6z0kjr6z0kjr6z0](https://github.com/user-attachments/assets/d05c29f8-83f5-4583-b0d2-f730d9018ebf)
+
 
 ## 💻 How to Run
 
