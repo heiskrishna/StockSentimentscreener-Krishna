@@ -1,0 +1,7 @@
+Flask
+requests
+yfinance
+textblob
+plotly
+python-dotenv
+pandas
